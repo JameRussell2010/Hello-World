@@ -1,4 +1,4 @@
 # hello-world
 Experimental Repository
-This is a total experiment, since it is so new.
+I am new at this, and want to learn this step.
 I want to start learning this, and start learning GitHub.
